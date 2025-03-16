@@ -1,0 +1,301 @@
+Sl No.,Requirement ID,Test Case ID,Module,LOB,Region,Test Case Description,Execution Steps,Expected Result,Unnamed: 9,Unnamed: 10,Unnamed: 11,Here is a new test case,3. Enter vehicle details,4. Enter driving history
+1,REQ_1,TC_1,Policy Issuance,Auto Insurance,ASIA,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+2,REQ_2,TC_2,Claims Processing,Home Insurance,US,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+3,REQ_3,TC_3,Policy Issuance,Travel Insurance,ANZ,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+4,REQ_4,TC_4,Claims Processing,Life Insurance,ASIA,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+5,REQ_5,TC_5,Policy Issuance,Commercial Insurance,US,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+6,REQ_6,TC_6,Claims Processing,Cyber Insurance,ANZ,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+7,REQ_7,TC_7,Policy Issuance,Pet Insurance,ASIA,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+8,REQ_8,TC_8,Claims Processing,Marine Insurance,US,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+9,REQ_9,TC_9,Policy Issuance,Agriculture Insurance,ANZ,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+10,REQ_10,TC_10,Claims Processing,Health Insurance,ASIA,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+11,REQ_11,TC_11,Policy Issuance,Auto Insurance,US,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+12,REQ_12,TC_12,Claims Processing,Home Insurance,ANZ,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+13,REQ_13,TC_13,Policy Issuance,Travel Insurance,ASIA,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+14,REQ_14,TC_14,Claims Processing,Life Insurance,US,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+15,REQ_15,TC_15,Policy Issuance,Commercial Insurance,ANZ,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+16,REQ_16,TC_16,Claims Processing,Cyber Insurance,ASIA,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+17,REQ_17,TC_17,Policy Issuance,Pet Insurance,US,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+18,REQ_18,TC_18,Claims Processing,Marine Insurance,ANZ,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+19,REQ_19,TC_19,Policy Issuance,Agriculture Insurance,ASIA,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+20,REQ_20,TC_20,Claims Processing,Health Insurance,US,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+21,REQ_21,TC_21,Policy Issuance,Auto Insurance,ANZ,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+22,REQ_22,TC_22,Claims Processing,Home Insurance,ASIA,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+23,REQ_23,TC_23,Policy Issuance,Travel Insurance,US,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+24,REQ_24,TC_24,Claims Processing,Life Insurance,ANZ,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+25,REQ_25,TC_25,Policy Issuance,Commercial Insurance,ASIA,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+26,REQ_26,TC_26,Claims Processing,Cyber Insurance,US,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+27,REQ_27,TC_27,Policy Issuance,Pet Insurance,ANZ,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+28,REQ_28,TC_28,Claims Processing,Marine Insurance,ASIA,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+29,REQ_29,TC_29,Policy Issuance,Agriculture Insurance,US,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+30,REQ_30,TC_30,Claims Processing,Health Insurance,ANZ,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+31,REQ_31,TC_31,Policy Issuance,Auto Insurance,ASIA,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+32,REQ_32,TC_32,Claims Processing,Home Insurance,US,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+33,REQ_33,TC_33,Policy Issuance,Travel Insurance,ANZ,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+34,REQ_34,TC_34,Claims Processing,Life Insurance,ASIA,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+35,REQ_35,TC_35,Policy Issuance,Commercial Insurance,US,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+36,REQ_36,TC_36,Claims Processing,Cyber Insurance,ANZ,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+37,REQ_37,TC_37,Policy Issuance,Pet Insurance,ASIA,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+38,REQ_38,TC_38,Claims Processing,Marine Insurance,US,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+39,REQ_39,TC_39,Policy Issuance,Agriculture Insurance,ANZ,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+40,REQ_40,TC_40,Claims Processing,Health Insurance,ASIA,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+41,REQ_41,TC_41,Policy Issuance,Auto Insurance,US,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+42,REQ_42,TC_42,Claims Processing,Home Insurance,ANZ,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+43,REQ_43,TC_43,Policy Issuance,Travel Insurance,ASIA,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+44,REQ_44,TC_44,Claims Processing,Life Insurance,US,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+45,REQ_45,TC_45,Policy Issuance,Commercial Insurance,ANZ,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+46,REQ_46,TC_46,Claims Processing,Cyber Insurance,ASIA,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+47,REQ_47,TC_47,Policy Issuance,Pet Insurance,US,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+48,REQ_48,TC_48,Claims Processing,Marine Insurance,ANZ,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+49,REQ_49,TC_49,Policy Issuance,Agriculture Insurance,ASIA,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+50,REQ_50,TC_50,Claims Processing,Health Insurance,US,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+51,REQ_51,TC_51,Policy Issuance,Auto Insurance,ANZ,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+52,REQ_52,TC_52,Claims Processing,Home Insurance,ASIA,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+53,REQ_53,TC_53,Policy Issuance,Travel Insurance,US,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+54,REQ_54,TC_54,Claims Processing,Life Insurance,ANZ,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+55,REQ_55,TC_55,Policy Issuance,Commercial Insurance,ASIA,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+56,REQ_56,TC_56,Claims Processing,Cyber Insurance,US,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+57,REQ_57,TC_57,Policy Issuance,Pet Insurance,ANZ,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+58,REQ_58,TC_58,Claims Processing,Marine Insurance,ASIA,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+59,REQ_59,TC_59,Policy Issuance,Agriculture Insurance,US,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+60,REQ_60,TC_60,Claims Processing,Health Insurance,ANZ,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+61,REQ_61,TC_61,Policy Issuance,Auto Insurance,ASIA,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+62,REQ_62,TC_62,Claims Processing,Home Insurance,US,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+63,REQ_63,TC_63,Policy Issuance,Travel Insurance,ANZ,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+64,REQ_64,TC_64,Claims Processing,Life Insurance,ASIA,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+65,REQ_65,TC_65,Policy Issuance,Commercial Insurance,US,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+66,REQ_66,TC_66,Claims Processing,Cyber Insurance,ANZ,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+67,REQ_67,TC_67,Policy Issuance,Pet Insurance,ASIA,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+68,REQ_68,TC_68,Claims Processing,Marine Insurance,US,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+69,REQ_69,TC_69,Policy Issuance,Agriculture Insurance,ANZ,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+70,REQ_70,TC_70,Claims Processing,Health Insurance,ASIA,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+71,REQ_71,TC_71,Policy Issuance,Auto Insurance,US,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+72,REQ_72,TC_72,Claims Processing,Home Insurance,ANZ,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+73,REQ_73,TC_73,Policy Issuance,Travel Insurance,ASIA,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+74,REQ_74,TC_74,Claims Processing,Life Insurance,US,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+75,REQ_75,TC_75,Policy Issuance,Commercial Insurance,ANZ,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+76,REQ_76,TC_76,Claims Processing,Cyber Insurance,ASIA,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+77,REQ_77,TC_77,Policy Issuance,Pet Insurance,US,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+78,REQ_78,TC_78,Claims Processing,Marine Insurance,ANZ,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+79,REQ_79,TC_79,Policy Issuance,Agriculture Insurance,ASIA,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+80,REQ_80,TC_80,Claims Processing,Health Insurance,US,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+81,REQ_81,TC_81,Policy Issuance,Auto Insurance,ANZ,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+82,REQ_82,TC_82,Claims Processing,Home Insurance,ASIA,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+83,REQ_83,TC_83,Policy Issuance,Travel Insurance,US,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+84,REQ_84,TC_84,Claims Processing,Life Insurance,ANZ,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+85,REQ_85,TC_85,Policy Issuance,Commercial Insurance,ASIA,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+86,REQ_86,TC_86,Claims Processing,Cyber Insurance,US,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+87,REQ_87,TC_87,Policy Issuance,Pet Insurance,ANZ,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+88,REQ_88,TC_88,Claims Processing,Marine Insurance,ASIA,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+89,REQ_89,TC_89,Policy Issuance,Agriculture Insurance,US,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+90,REQ_90,TC_90,Claims Processing,Health Insurance,ANZ,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
+91,REQ_91,TC_91,Policy Issuance,Auto Insurance,ASIA,Verify claim processing within SLA,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Claim processed successfully,,,,,,
+92,REQ_92,TC_92,Claims Processing,Home Insurance,US,Check email notification upon claim approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Email notification sent successfully,,,,,,
+93,REQ_93,TC_93,Policy Issuance,Travel Insurance,ANZ,Validate premium calculation based on risk factors,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Premium calculated correctly as per risk factors,,,,,,
+94,REQ_94,TC_94,Claims Processing,Life Insurance,ASIA,Ensure correct document upload for policy approval,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Documents uploaded and verified successfully,,,,,,
+95,REQ_95,TC_95,Policy Issuance,Commercial Insurance,US,Test multi-factor authentication during login,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",User successfully logged in with MFA,,,,,,
+96,REQ_96,TC_96,Claims Processing,Cyber Insurance,ANZ,Verify policy cancellation process and refund calculation,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy cancelled and refund processed correctly,,,,,,
+97,REQ_97,TC_97,Policy Issuance,Pet Insurance,ASIA,Confirm auto-renewal notification for upcoming policy expiration,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Auto-renewal notification sent successfully,,,,,,
+98,REQ_98,TC_98,Claims Processing,Marine Insurance,US,Check fraud detection triggers during claim submission,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Fraud detected and claim flagged for review,,,,,,
+99,REQ_99,TC_99,Policy Issuance,Agriculture Insurance,ANZ,Validate tax calculation for different policy types,"Step 1: Navigate to Policy Issuance screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Tax calculated and applied correctly,,,,,,
+100,REQ_100,TC_100,Claims Processing,Health Insurance,ASIA,Verify policy issuance with correct details,"Step 1: Navigate to Claims Processing screen
+Step 2: Fill in required details
+Step 3: Submit and verify output",Policy issued successfully,,,,,,
